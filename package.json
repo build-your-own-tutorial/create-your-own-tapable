@@ -1,0 +1,17 @@
+{
+  "name": "build-your-own-tapable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "tapable": "^1.1.3"
+  }
+}
